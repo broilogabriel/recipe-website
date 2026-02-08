@@ -1,0 +1,10 @@
+node_modules/
+.obsidian/
+.DS_Store
+.quartz-cache/
+.env
+public/
+.vscode/
+*.log
+.cache/
+dist/
